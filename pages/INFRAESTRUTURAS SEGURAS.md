@@ -1,5 +1,5 @@
 - Exame -> 60% -> Data TBT
 - Resolução de Problemas -> 40%
 - Docente: Paulo Simões
-- [[IS 15/09/2025]]
+- [[IS 15-09-2025]]
 -
