@@ -1,0 +1,4 @@
+- Exame -> 60% -> Data TBT
+- Resolução de Problemas -> 40%
+- Docente: Paulo Simões
+- [[AULAS IS]]
